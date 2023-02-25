@@ -19,6 +19,8 @@ message Command {
 
 
 message Empty {
-    
+
 }
+
+option go_package = "./";
 
